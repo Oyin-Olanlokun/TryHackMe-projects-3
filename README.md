@@ -4,7 +4,9 @@ Date: Sepptember 2024
 
 Objective: Get root access on the target system of IP address 10.10.91.223
 
-Tools used: Nmap
+Tools used: 
+- Nmap
+- Recon - NG
 
 Step by step process: 
 - Used Nmap to scan the IP of the target
