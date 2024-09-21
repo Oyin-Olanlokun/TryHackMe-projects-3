@@ -18,7 +18,7 @@ Step by step process:
 - Discovered the content of the flag.txt
 
 Results:
--Gained accessto all the users' files
+- Gained accessto all the users' files
 - Learned that Nmap reports on whether the host is up based on whether it receives any response from it
 - Learned that the root account hass full priivileges on a Linux system, meaning that it can read and write any file and install and remove any program
   
